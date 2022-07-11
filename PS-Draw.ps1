@@ -142,7 +142,7 @@ Function PS-Draw
 # -------------------------------------------------------------------------------------------
 # Download the image from wherever you are hosting it
 
-iwr https://www.dropbox.com/s/EXAMPLE/omg-ico.png?dl=1 -O $env:TMP\omg-ico.png
+iwr https://images-na.ssl-images-amazon.com/images/I/41DHe0-tHeL._AC_UL115_.jpg
 
 # -------------------------------------------------------------------------------------------
 
