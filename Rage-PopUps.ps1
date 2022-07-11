@@ -41,6 +41,8 @@ $msgs = @(
 "Is the pay worth being this big of a loser?"
 "Do your parents know what you do for a living?"
 "Does you boss know much much you suck at this job?"
+"I fucked your mom, shit lips."
+"Get a load of this Nigger."
 )
 
 for ($i=1; $i -le $cycles; $i++) {
